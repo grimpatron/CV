@@ -1,0 +1,26 @@
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="52" width="52" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_11">
+   <g stroke="null" transform="matrix(0.09798515098871836,0,0,0.09752218419012523,-0.04664624194351921,0.012167515975180128) " id="svg_5">
+    <g stroke="null" id="svg_6">
+     <path stroke="null" id="svg_7" d="m256.09294,0.83331c-89.965,0 -165,72.47 -165,165c0,35.202 10.578,66.592 30.879,96.006l121.494,189.58c5.894,9.216 19.372,9.198 25.254,0l122.021,-190.225c19.864,-28.081 30.352,-61.054 30.352,-95.361c0,-90.981 -74.019,-165 -165,-165zm0,240c-41.353,0 -75,-33.647 -75,-75c0,-41.353 33.647,-75 75,-75c41.353,0 75,33.647 75,75c0,41.353 -33.647,75 -75,75z"/>
+    </g>
+   </g>
+   <g stroke="null" transform="matrix(0.09798515098871836,0,0,0.09752218419012523,-0.04664624194351921,0.012167515975180128) " id="svg_8">
+    <g stroke="null" id="svg_9">
+     <path stroke="null" id="svg_10" d="m373.35694,345.52831l-75.531,118.087c-19.551,30.482 -64.024,30.382 -83.481,0.029l-75.654,-118.085c-66.564,15.39 -107.598,43.583 -107.598,77.274c0,58.462 115.928,90 225,90s225,-31.538 225,-90c0,-33.715 -41.091,-61.923 -107.736,-77.305z"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
